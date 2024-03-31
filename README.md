@@ -1,2 +1,7 @@
-# python_and_r_for_the_modern_data_
-Read to Rick Scavetta
+# Python and R for the modern data Scientist
+
+Tha best of Both J. Worlds
+
+
+Reading to Rick Scavetta
+Boyan Angelov
